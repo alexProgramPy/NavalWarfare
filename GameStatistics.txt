@@ -1,0 +1,31 @@
+++++++++++++++++++
+GAME STATISTICS
+++++++++++++++++++
+
+Statistics for Game 1:
+Total Shots: 53
+Total Hits: 17
+Total Misses: 36
+=========================================
+
+
+Statistics for Game 1:
+Total Shots: 0
+Total Hits: 0
+Total Misses: 0
+=========================================
+
+
+Statistics for Game 1:
+Total Shots: 0
+Total Hits: 0
+Total Misses: 0
+=========================================
+
+
+Statistics for Game 1:
+Total Shots: 0
+Total Hits: 0
+Total Misses: 0
+=========================================
+
